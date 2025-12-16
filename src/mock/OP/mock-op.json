@@ -1,0 +1,27 @@
+[
+  {
+    "id": "op-001",
+    "name": "Operator 1",
+    "province": "A"
+  },
+  {
+    "id": "op-002",
+    "name": "Operator 2",
+    "province": "B"
+  },
+  {
+    "id": "op-003",
+    "name": "Operator 3",
+    "province": "C"
+  },
+  {
+    "id": "op-004",
+    "name": "Operator 4",
+    "province": "C"
+  },
+  {
+    "id": "op-005",
+    "name": "Operator 5",
+    "province": "C"
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "A-NL": {
+    "fsaCount": 35,
+    "lduCount": 1281,
+    "rawFileSize": "123.3MB",
+    "rawFileSizeBytes": 129280270,
+    "fileSize": "6.7MB",
+    "fileSizeBytes": 7013202
+  },
+  "B-NS": {
+    "fsaCount": 77,
+    "lduCount": 2251,
+    "rawFileSize": "45.7MB",
+    "rawFileSizeBytes": 47905811,
+    "fileSize": "2.0MB",
+    "fileSizeBytes": 2140293
+  },
+  "C-PEI": {
+    "fsaCount": 7,
+    "lduCount": 322,
+    "rawFileSize": "4.6MB",
+    "rawFileSizeBytes": 4788153,
+    "fileSize": "266.1KB",
+    "fileSizeBytes": 272508
+  },
+  "E-NB": {
+    "fsaCount": 110,
+    "lduCount": 1907,
+    "rawFileSize": "23.8MB",
+    "rawFileSizeBytes": 24963643,
+    "fileSize": "1.1MB",
+    "fileSizeBytes": 1106317
+  },
+  "J-QC": {
+    "fsaCount": 130,
+    "lduCount": 2115,
+    "rawFileSize": "48.2MB",
+    "rawFileSizeBytes": 50507627,
+    "fileSize": "4.2MB",
+    "fileSizeBytes": 4395843
+  },
+  "O-ON": {
+    "fsaCount": 520,
+    "lduCount": 25249,
+    "rawFileSize": "423.2MB",
+    "rawFileSizeBytes": 443715555,
+    "fileSize": "9.1MB",
+    "fileSizeBytes": 9557608
+  }
+}
