@@ -1,3 +1,5801 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e86f1411e87629b8c700fe2e838968a6a3b1b8095a67484cdd582c867e0f045e
-size 116068
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7J8",
+        "fsa": "C1A",
+        "ldu": "7J8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.049,
+          46.4255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A2B0",
+        "fsa": "C0A",
+        "ldu": "2B0",
+        "city": "Souris",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.049,
+          46.4255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1K0",
+        "fsa": "C0A",
+        "ldu": "1K0",
+        "city": "Elmira",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.049,
+          46.4255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8R8",
+        "fsa": "C1A",
+        "ldu": "8R8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1H0",
+        "fsa": "C0A",
+        "ldu": "1H0",
+        "city": "Cornwall",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A6A9",
+        "fsa": "C1A",
+        "ldu": "6A9",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A1N3",
+        "fsa": "C1A",
+        "ldu": "1N3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A6B8",
+        "fsa": "C1A",
+        "ldu": "6B8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A6A5",
+        "fsa": "C1A",
+        "ldu": "6A5",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4A2",
+        "fsa": "C1A",
+        "ldu": "4A2",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5P6",
+        "fsa": "C1A",
+        "ldu": "5P6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1Z4",
+        "fsa": "C1E",
+        "ldu": "1Z4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1Z3",
+        "fsa": "C1E",
+        "ldu": "1Z3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A6A7",
+        "fsa": "C1A",
+        "ldu": "6A7",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A1A4",
+        "fsa": "C1A",
+        "ldu": "1A4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1V5",
+        "fsa": "C1E",
+        "ldu": "1V5",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7J7",
+        "fsa": "C1A",
+        "ldu": "7J7",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8K3",
+        "fsa": "C1A",
+        "ldu": "8K3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8H8",
+        "fsa": "C1A",
+        "ldu": "8H8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1V2",
+        "fsa": "C1E",
+        "ldu": "1V2",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4S3",
+        "fsa": "C1A",
+        "ldu": "4S3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A2H0",
+        "fsa": "C0A",
+        "ldu": "2H0",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7J9",
+        "fsa": "C1A",
+        "ldu": "7J9",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N5R1",
+        "fsa": "C1N",
+        "ldu": "5R1",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N5Y1",
+        "fsa": "C1N",
+        "ldu": "5Y1",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N3H7",
+        "fsa": "C1N",
+        "ldu": "3H7",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N4J1",
+        "fsa": "C1N",
+        "ldu": "4J1",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B2A0",
+        "fsa": "C0B",
+        "ldu": "2A0",
+        "city": "Slemon Park",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N4J8",
+        "fsa": "C1N",
+        "ldu": "4J8",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N4E5",
+        "fsa": "C1N",
+        "ldu": "4E5",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1T0",
+        "fsa": "C0B",
+        "ldu": "1T0",
+        "city": "Miscouche",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N2A9",
+        "fsa": "C1N",
+        "ldu": "2A9",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N1T2",
+        "fsa": "C1N",
+        "ldu": "1T2",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N1B3",
+        "fsa": "C1N",
+        "ldu": "1B3",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N4P7",
+        "fsa": "C1N",
+        "ldu": "4P7",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N4J1",
+        "fsa": "C1N",
+        "ldu": "4J1",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N1B3",
+        "fsa": "C1N",
+        "ldu": "1B3",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N3Z7",
+        "fsa": "C1N",
+        "ldu": "3Z7",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N2L9",
+        "fsa": "C1N",
+        "ldu": "2L9",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N1B5",
+        "fsa": "C1N",
+        "ldu": "1B5",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N2N7",
+        "fsa": "C1N",
+        "ldu": "2N7",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N4J8",
+        "fsa": "C1N",
+        "ldu": "4J8",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N4B8",
+        "fsa": "C1N",
+        "ldu": "4B8",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N1B6",
+        "fsa": "C1N",
+        "ldu": "1B6",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N4H7",
+        "fsa": "C1N",
+        "ldu": "4H7",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N4E4",
+        "fsa": "C1N",
+        "ldu": "4E4",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N1B4",
+        "fsa": "C1N",
+        "ldu": "1B4",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N2S5",
+        "fsa": "C1N",
+        "ldu": "2S5",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1T0",
+        "fsa": "C0B",
+        "ldu": "1T0",
+        "city": "Miscouche",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N4N6",
+        "fsa": "C1N",
+        "ldu": "4N6",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N2K4",
+        "fsa": "C1N",
+        "ldu": "2K4",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N4E3",
+        "fsa": "C1N",
+        "ldu": "4E3",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N4P7",
+        "fsa": "C1N",
+        "ldu": "4P7",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N3B9",
+        "fsa": "C1N",
+        "ldu": "3B9",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N5N4",
+        "fsa": "C1N",
+        "ldu": "5N4",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1A0",
+        "fsa": "C0B",
+        "ldu": "1A0",
+        "city": "Albany",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6981,
+          46.2517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1X0",
+        "fsa": "C0B",
+        "ldu": "1X0",
+        "city": "Borden-carleton",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6981,
+          46.2517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A1A5",
+        "fsa": "C1A",
+        "ldu": "1A5",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1V3",
+        "fsa": "C1E",
+        "ldu": "1V3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1H0",
+        "fsa": "C0A",
+        "ldu": "1H0",
+        "city": "Cornwall",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4A1",
+        "fsa": "C1A",
+        "ldu": "4A1",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A3W4",
+        "fsa": "C1A",
+        "ldu": "3W4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A6B6",
+        "fsa": "C1A",
+        "ldu": "6B6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1B0",
+        "fsa": "C1E",
+        "ldu": "1B0",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4P3",
+        "fsa": "C1A",
+        "ldu": "4P3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7J7",
+        "fsa": "C1A",
+        "ldu": "7J7",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1Z4",
+        "fsa": "C1E",
+        "ldu": "1Z4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A1N3",
+        "fsa": "C1A",
+        "ldu": "1N3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4A2",
+        "fsa": "C1A",
+        "ldu": "4A2",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7W6",
+        "fsa": "C1A",
+        "ldu": "7W6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8R8",
+        "fsa": "C1A",
+        "ldu": "8R8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7J6",
+        "fsa": "C1A",
+        "ldu": "7J6",
+        "city": "Stratford",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A2H0",
+        "fsa": "C0A",
+        "ldu": "2H0",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8P1",
+        "fsa": "C1A",
+        "ldu": "8P1",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4B1",
+        "fsa": "C1A",
+        "ldu": "4B1",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1C1M3",
+        "fsa": "C1C",
+        "ldu": "1M3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5A3",
+        "fsa": "C1A",
+        "ldu": "5A3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1B1K4",
+        "fsa": "C1B",
+        "ldu": "1K4",
+        "city": "Stratford",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7W3",
+        "fsa": "C1A",
+        "ldu": "7W3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7J5",
+        "fsa": "C1A",
+        "ldu": "7J5",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7G9",
+        "fsa": "C1A",
+        "ldu": "7G9",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7V1",
+        "fsa": "C1A",
+        "ldu": "7V1",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7G6",
+        "fsa": "C1A",
+        "ldu": "7G6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1B1K6",
+        "fsa": "C1B",
+        "ldu": "1K6",
+        "city": "Stratford",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1B1K3",
+        "fsa": "C1B",
+        "ldu": "1K3",
+        "city": "Stratford",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7J6",
+        "fsa": "C1A",
+        "ldu": "7J6",
+        "city": "Stratford",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1B1E6",
+        "fsa": "C1B",
+        "ldu": "1E6",
+        "city": "Stratford",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1B1K5",
+        "fsa": "C1B",
+        "ldu": "1K5",
+        "city": "Stratford",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7H6",
+        "fsa": "C1A",
+        "ldu": "7H6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7G3",
+        "fsa": "C1A",
+        "ldu": "7G3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7J4",
+        "fsa": "C1A",
+        "ldu": "7J4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7G1",
+        "fsa": "C1A",
+        "ldu": "7G1",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A9G3",
+        "fsa": "C1A",
+        "ldu": "9G3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7T5",
+        "fsa": "C1A",
+        "ldu": "7T5",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7J8",
+        "fsa": "C1A",
+        "ldu": "7J8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7T4",
+        "fsa": "C1A",
+        "ldu": "7T4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7G8",
+        "fsa": "C1A",
+        "ldu": "7G8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1G0",
+        "fsa": "C0A",
+        "ldu": "1G0",
+        "city": "Cardigan",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6189,
+          46.2358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1T0",
+        "fsa": "C0A",
+        "ldu": "1T0",
+        "city": "Mount Stewart",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6189,
+          46.2358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A2A0",
+        "fsa": "C0A",
+        "ldu": "2A0",
+        "city": "St-peters Bay",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6189,
+          46.2358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A2B0",
+        "fsa": "C0A",
+        "ldu": "2B0",
+        "city": "Souris",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6189,
+          46.2358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8C3",
+        "fsa": "C1A",
+        "ldu": "8C3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6189,
+          46.2358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1N0",
+        "fsa": "C0A",
+        "ldu": "1N0",
+        "city": "Hunter River",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3535,
+          46.3562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1Z4",
+        "fsa": "C1E",
+        "ldu": "1Z4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3535,
+          46.3562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A2E0",
+        "fsa": "C0A",
+        "ldu": "2E0",
+        "city": "Vernon Bridge",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3535,
+          46.3562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1Y0",
+        "fsa": "C0A",
+        "ldu": "1Y0",
+        "city": "North Wiltshire",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3535,
+          46.3562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5P8",
+        "fsa": "C1A",
+        "ldu": "5P8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A1L5",
+        "fsa": "C1A",
+        "ldu": "1L5",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A3W4",
+        "fsa": "C1A",
+        "ldu": "3W4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4C2",
+        "fsa": "C1A",
+        "ldu": "4C2",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4C7",
+        "fsa": "C1A",
+        "ldu": "4C7",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4L2",
+        "fsa": "C1A",
+        "ldu": "4L2",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4N4",
+        "fsa": "C1A",
+        "ldu": "4N4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4N6",
+        "fsa": "C1A",
+        "ldu": "4N6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1E5",
+        "fsa": "C1E",
+        "ldu": "1E5",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5P3",
+        "fsa": "C1A",
+        "ldu": "5P3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8R8",
+        "fsa": "C1A",
+        "ldu": "8R8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1H0",
+        "fsa": "C0A",
+        "ldu": "1H0",
+        "city": "Cornwall",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5G4",
+        "fsa": "C1A",
+        "ldu": "5G4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1K8",
+        "fsa": "C1E",
+        "ldu": "1K8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8P1",
+        "fsa": "C1A",
+        "ldu": "8P1",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4J6",
+        "fsa": "C1A",
+        "ldu": "4J6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A1L2",
+        "fsa": "C1A",
+        "ldu": "1L2",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4J7",
+        "fsa": "C1A",
+        "ldu": "4J7",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A1A5",
+        "fsa": "C1A",
+        "ldu": "1A5",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8R9",
+        "fsa": "C1A",
+        "ldu": "8R9",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7W6",
+        "fsa": "C1A",
+        "ldu": "7W6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8P2",
+        "fsa": "C1A",
+        "ldu": "8P2",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1E3",
+        "fsa": "C1E",
+        "ldu": "1E3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4K8",
+        "fsa": "C1A",
+        "ldu": "4K8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4K3",
+        "fsa": "C1A",
+        "ldu": "4K3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7J7",
+        "fsa": "C1A",
+        "ldu": "7J7",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5N4",
+        "fsa": "C1A",
+        "ldu": "5N4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A6A4",
+        "fsa": "C1A",
+        "ldu": "6A4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1H0",
+        "fsa": "C0A",
+        "ldu": "1H0",
+        "city": "Cornwall",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8R8",
+        "fsa": "C1A",
+        "ldu": "8R8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A1H9",
+        "fsa": "C1A",
+        "ldu": "1H9",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7J6",
+        "fsa": "C1A",
+        "ldu": "7J6",
+        "city": "Stratford",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5H6",
+        "fsa": "C1A",
+        "ldu": "5H6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1C1J6",
+        "fsa": "C1C",
+        "ldu": "1J6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1C1C5",
+        "fsa": "C1C",
+        "ldu": "1C5",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4J6",
+        "fsa": "C1A",
+        "ldu": "4J6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1C1C8",
+        "fsa": "C1C",
+        "ldu": "1C8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1C1K3",
+        "fsa": "C1C",
+        "ldu": "1K3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1C1G7",
+        "fsa": "C1C",
+        "ldu": "1G7",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1P0",
+        "fsa": "C0A",
+        "ldu": "1P0",
+        "city": "York",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1C1C9",
+        "fsa": "C1C",
+        "ldu": "1C9",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1C1E3",
+        "fsa": "C1C",
+        "ldu": "1E3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1C1G3",
+        "fsa": "C1C",
+        "ldu": "1G3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5Z5",
+        "fsa": "C1A",
+        "ldu": "5Z5",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A1P7",
+        "fsa": "C1A",
+        "ldu": "1P7",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1C1H3",
+        "fsa": "C1C",
+        "ldu": "1H3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1C1C4",
+        "fsa": "C1C",
+        "ldu": "1C4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1C1E2",
+        "fsa": "C1C",
+        "ldu": "1E2",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1C1K5",
+        "fsa": "C1C",
+        "ldu": "1K5",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A1L2",
+        "fsa": "C1A",
+        "ldu": "1L2",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7J7",
+        "fsa": "C1A",
+        "ldu": "7J7",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A1K8",
+        "fsa": "C1A",
+        "ldu": "1K8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1B0",
+        "fsa": "C1E",
+        "ldu": "1B0",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1Z0",
+        "fsa": "C0A",
+        "ldu": "1Z0",
+        "city": "Pownal",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8455,
+          46.2061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1R0",
+        "fsa": "C0A",
+        "ldu": "1R0",
+        "city": "Montague",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8455,
+          46.2061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7J6",
+        "fsa": "C1A",
+        "ldu": "7J6",
+        "city": "Stratford",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8455,
+          46.2061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A2E0",
+        "fsa": "C0A",
+        "ldu": "2E0",
+        "city": "Vernon Bridge",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8455,
+          46.2061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1A0",
+        "fsa": "C0A",
+        "ldu": "1A0",
+        "city": "Belfast",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8455,
+          46.2061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1Y0",
+        "fsa": "C0B",
+        "ldu": "1Y0",
+        "city": "Richmond",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.536,
+          46.1847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1L0",
+        "fsa": "C0A",
+        "ldu": "1L0",
+        "city": "Georgetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.536,
+          46.1847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A2G0",
+        "fsa": "C0A",
+        "ldu": "2G0",
+        "city": "Victoria",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.536,
+          46.1847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1G0",
+        "fsa": "C0A",
+        "ldu": "1G0",
+        "city": "Cardigan",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.536,
+          46.1847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5A9",
+        "fsa": "C1A",
+        "ldu": "5A9",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5052,
+          46.2363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1J0",
+        "fsa": "C0A",
+        "ldu": "1J0",
+        "city": "Crapaud",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5052,
+          46.2363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A2G0",
+        "fsa": "C0A",
+        "ldu": "2G0",
+        "city": "Victoria",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5052,
+          46.2363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1A0",
+        "fsa": "C0B",
+        "ldu": "1A0",
+        "city": "Albany",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5052,
+          46.2363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1C0",
+        "fsa": "C0A",
+        "ldu": "1C0",
+        "city": "Bonshaw",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5052,
+          46.2363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1Y0",
+        "fsa": "C0A",
+        "ldu": "1Y0",
+        "city": "North Wiltshire",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5052,
+          46.2363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1B0",
+        "fsa": "C0A",
+        "ldu": "1B0",
+        "city": "Belle River",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8903,
+          46.0896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A2E0",
+        "fsa": "C0A",
+        "ldu": "2E0",
+        "city": "Vernon Bridge",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8903,
+          46.0896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1A0",
+        "fsa": "C0A",
+        "ldu": "1A0",
+        "city": "Belfast",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8903,
+          46.0896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1Z3",
+        "fsa": "C1E",
+        "ldu": "1Z3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1274,
+          46.3936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1T0",
+        "fsa": "C0A",
+        "ldu": "1T0",
+        "city": "Mount Stewart",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1274,
+          46.3936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1N3",
+        "fsa": "C1E",
+        "ldu": "1N3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1274,
+          46.3936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A3Z4",
+        "fsa": "C1A",
+        "ldu": "3Z4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1274,
+          46.3936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7N9",
+        "fsa": "C1A",
+        "ldu": "7N9",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1274,
+          46.3936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1P0",
+        "fsa": "C0A",
+        "ldu": "1P0",
+        "city": "York",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1274,
+          46.3936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1C0",
+        "fsa": "C0A",
+        "ldu": "1C0",
+        "city": "Bonshaw",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2994,
+          46.2172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A6A4",
+        "fsa": "C1A",
+        "ldu": "6A4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2994,
+          46.2172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1W5",
+        "fsa": "C1E",
+        "ldu": "1W5",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2994,
+          46.2172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1H0",
+        "fsa": "C0A",
+        "ldu": "1H0",
+        "city": "Cornwall",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2994,
+          46.2172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1Y0",
+        "fsa": "C0A",
+        "ldu": "1Y0",
+        "city": "North Wiltshire",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2994,
+          46.2172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4A1",
+        "fsa": "C1A",
+        "ldu": "4A1",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2994,
+          46.2172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4B6",
+        "fsa": "C1A",
+        "ldu": "4B6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2994,
+          46.2172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1T0",
+        "fsa": "C0A",
+        "ldu": "1T0",
+        "city": "Mount Stewart",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8837,
+          46.3672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7J8",
+        "fsa": "C1A",
+        "ldu": "7J8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8837,
+          46.3672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A2B0",
+        "fsa": "C0A",
+        "ldu": "2B0",
+        "city": "Souris",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.2538,
+          46.3554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B2C0",
+        "fsa": "C0B",
+        "ldu": "2C0",
+        "city": "Tyne Valley",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9446,
+          46.577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1Y0",
+        "fsa": "C0B",
+        "ldu": "1Y0",
+        "city": "Richmond",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9446,
+          46.577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1P0",
+        "fsa": "C0B",
+        "ldu": "1P0",
+        "city": "Lennox Island",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9446,
+          46.577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1H0",
+        "fsa": "C0B",
+        "ldu": "1H0",
+        "city": "Coleman",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9446,
+          46.577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1J0",
+        "fsa": "C0B",
+        "ldu": "1J0",
+        "city": "Ellerslie",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9446,
+          46.577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1Z0",
+        "fsa": "C0B",
+        "ldu": "1Z0",
+        "city": "St-louis",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6445,
+          46.4319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1P0",
+        "fsa": "C0A",
+        "ldu": "1P0",
+        "city": "York",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6445,
+          46.4319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A2G0",
+        "fsa": "C0A",
+        "ldu": "2G0",
+        "city": "Victoria",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6445,
+          46.4319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1M0",
+        "fsa": "C0B",
+        "ldu": "1M0",
+        "city": "Kensington",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6445,
+          46.4319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N5R1",
+        "fsa": "C1N",
+        "ldu": "5R1",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6536,
+          46.1635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1A0",
+        "fsa": "C0A",
+        "ldu": "1A0",
+        "city": "Belfast",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6536,
+          46.1635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1R0",
+        "fsa": "C0A",
+        "ldu": "1R0",
+        "city": "Montague",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6536,
+          46.1635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1G0",
+        "fsa": "C0A",
+        "ldu": "1G0",
+        "city": "Cardigan",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6536,
+          46.1635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1E0",
+        "fsa": "C0B",
+        "ldu": "1E0",
+        "city": "Bloomfield Station",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0704,
+          46.8137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1V0",
+        "fsa": "C0B",
+        "ldu": "1V0",
+        "city": "Oleary",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0704,
+          46.8137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1B1A9",
+        "fsa": "C1B",
+        "ldu": "1A9",
+        "city": "Stratford",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0704,
+          46.8137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1S0",
+        "fsa": "C0B",
+        "ldu": "1S0",
+        "city": "Miminegash",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0704,
+          46.8137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B2B0",
+        "fsa": "C0B",
+        "ldu": "2B0",
+        "city": "Tignish",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0704,
+          46.8137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1B0",
+        "fsa": "C0B",
+        "ldu": "1B0",
+        "city": "Alberton",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0704,
+          46.8137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N3H9",
+        "fsa": "C1N",
+        "ldu": "3H9",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0704,
+          46.8137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1K0",
+        "fsa": "C0B",
+        "ldu": "1K0",
+        "city": "Elmsdale",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0704,
+          46.8137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1Y0",
+        "fsa": "C0B",
+        "ldu": "1Y0",
+        "city": "Richmond",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0018,
+          46.4566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N1C1",
+        "fsa": "C1N",
+        "ldu": "1C1",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0018,
+          46.4566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B2E0",
+        "fsa": "C0B",
+        "ldu": "2E0",
+        "city": "Wellington Station",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0018,
+          46.4566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1X0",
+        "fsa": "C0B",
+        "ldu": "1X0",
+        "city": "Borden-carleton",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6981,
+          46.2517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1A0",
+        "fsa": "C0B",
+        "ldu": "1A0",
+        "city": "Albany",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6981,
+          46.2517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1E0",
+        "fsa": "C0B",
+        "ldu": "1E0",
+        "city": "Bloomfield Station",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.227,
+          46.7086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1H0",
+        "fsa": "C0B",
+        "ldu": "1H0",
+        "city": "Coleman",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.227,
+          46.7086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1M0",
+        "fsa": "C0B",
+        "ldu": "1M0",
+        "city": "Kensington",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.227,
+          46.7086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1K0",
+        "fsa": "C0B",
+        "ldu": "1K0",
+        "city": "Elmsdale",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.227,
+          46.7086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1V0",
+        "fsa": "C0B",
+        "ldu": "1V0",
+        "city": "Oleary",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.227,
+          46.7086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B2B0",
+        "fsa": "C0B",
+        "ldu": "2B0",
+        "city": "Tignish",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0362,
+          46.9498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1Z0",
+        "fsa": "C0B",
+        "ldu": "1Z0",
+        "city": "St-louis",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0362,
+          46.9498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1K0",
+        "fsa": "C0B",
+        "ldu": "1K0",
+        "city": "Elmsdale",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0362,
+          46.9498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1S0",
+        "fsa": "C0B",
+        "ldu": "1S0",
+        "city": "Miminegash",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0362,
+          46.9498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A3P5",
+        "fsa": "C1A",
+        "ldu": "3P5",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5172,
+          46.4604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1M0",
+        "fsa": "C0B",
+        "ldu": "1M0",
+        "city": "Kensington",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5172,
+          46.4604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1N0",
+        "fsa": "C0A",
+        "ldu": "1N0",
+        "city": "Hunter River",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5172,
+          46.4604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1E0",
+        "fsa": "C0A",
+        "ldu": "1E0",
+        "city": "Breadalbane",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5172,
+          46.4604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1X0",
+        "fsa": "C0A",
+        "ldu": "1X0",
+        "city": "North Rustico",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5172,
+          46.4604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1N0",
+        "fsa": "C0B",
+        "ldu": "1N0",
+        "city": "Kinkora",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.7347,
+          46.3338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1L0",
+        "fsa": "C0B",
+        "ldu": "1L0",
+        "city": "Freetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.7347,
+          46.3338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1G0",
+        "fsa": "C0B",
+        "ldu": "1G0",
+        "city": "Central Bedeque",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.7347,
+          46.3338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N4J9",
+        "fsa": "C1N",
+        "ldu": "4J9",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.7347,
+          46.3338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1X0",
+        "fsa": "C0B",
+        "ldu": "1X0",
+        "city": "Borden-carleton",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.7347,
+          46.3338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1E0",
+        "fsa": "C0A",
+        "ldu": "1E0",
+        "city": "Breadalbane",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.7347,
+          46.3338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1C0",
+        "fsa": "C0B",
+        "ldu": "1C0",
+        "city": "Bedeque",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.7347,
+          46.3338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N1B3",
+        "fsa": "C1N",
+        "ldu": "1B3",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N1C2",
+        "fsa": "C1N",
+        "ldu": "1C2",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N3Z7",
+        "fsa": "C1N",
+        "ldu": "3Z7",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N5P1",
+        "fsa": "C1N",
+        "ldu": "5P1",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N2K4",
+        "fsa": "C1N",
+        "ldu": "2K4",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B2C0",
+        "fsa": "C0B",
+        "ldu": "2C0",
+        "city": "Tyne Valley",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N4J8",
+        "fsa": "C1N",
+        "ldu": "4J8",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N1A8",
+        "fsa": "C1N",
+        "ldu": "1A8",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N5H2",
+        "fsa": "C1N",
+        "ldu": "5H2",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N3H2",
+        "fsa": "C1N",
+        "ldu": "3H2",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N4Z5",
+        "fsa": "C1N",
+        "ldu": "4Z5",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N5N4",
+        "fsa": "C1N",
+        "ldu": "5N4",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N4H7",
+        "fsa": "C1N",
+        "ldu": "4H7",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N1A1",
+        "fsa": "C1N",
+        "ldu": "1A1",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N5P2",
+        "fsa": "C1N",
+        "ldu": "5P2",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N2L9",
+        "fsa": "C1N",
+        "ldu": "2L9",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N5M6",
+        "fsa": "C1N",
+        "ldu": "5M6",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B2A0",
+        "fsa": "C0B",
+        "ldu": "2A0",
+        "city": "Slemon Park",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N5P7",
+        "fsa": "C1N",
+        "ldu": "5P7",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1N1A9",
+        "fsa": "C1N",
+        "ldu": "1A9",
+        "city": "Summerside",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8232,
+          46.4063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8H9",
+        "fsa": "C1A",
+        "ldu": "8H9",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A6B6",
+        "fsa": "C1A",
+        "ldu": "6B6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A2Y8",
+        "fsa": "C1A",
+        "ldu": "2Y8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8H5",
+        "fsa": "C1A",
+        "ldu": "8H5",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A9G9",
+        "fsa": "C1A",
+        "ldu": "9G9",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A3M4",
+        "fsa": "C1A",
+        "ldu": "3M4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7J7",
+        "fsa": "C1A",
+        "ldu": "7J7",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8B3",
+        "fsa": "C1A",
+        "ldu": "8B3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A6A9",
+        "fsa": "C1A",
+        "ldu": "6A9",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5P8",
+        "fsa": "C1A",
+        "ldu": "5P8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8V5",
+        "fsa": "C1A",
+        "ldu": "8V5",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5J1",
+        "fsa": "C1A",
+        "ldu": "5J1",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5A3",
+        "fsa": "C1A",
+        "ldu": "5A3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8P6",
+        "fsa": "C1A",
+        "ldu": "8P6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8W2",
+        "fsa": "C1A",
+        "ldu": "8W2",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5H6",
+        "fsa": "C1A",
+        "ldu": "5H6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A2Z5",
+        "fsa": "C1A",
+        "ldu": "2Z5",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A1K8",
+        "fsa": "C1A",
+        "ldu": "1K8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5P6",
+        "fsa": "C1A",
+        "ldu": "5P6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7W6",
+        "fsa": "C1A",
+        "ldu": "7W6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A6B6",
+        "fsa": "C1A",
+        "ldu": "6B6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1H0",
+        "fsa": "C0A",
+        "ldu": "1H0",
+        "city": "Cornwall",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A6A9",
+        "fsa": "C1A",
+        "ldu": "6A9",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A6A7",
+        "fsa": "C1A",
+        "ldu": "6A7",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5A3",
+        "fsa": "C1A",
+        "ldu": "5A3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A2Z5",
+        "fsa": "C1A",
+        "ldu": "2Z5",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5R4",
+        "fsa": "C1A",
+        "ldu": "5R4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A3Y9",
+        "fsa": "C1A",
+        "ldu": "3Y9",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A1H4",
+        "fsa": "C1A",
+        "ldu": "1H4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4E4",
+        "fsa": "C1A",
+        "ldu": "4E4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A7W6",
+        "fsa": "C1A",
+        "ldu": "7W6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4T8",
+        "fsa": "C1A",
+        "ldu": "4T8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8H9",
+        "fsa": "C1A",
+        "ldu": "8H9",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5T1",
+        "fsa": "C1A",
+        "ldu": "5T1",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A5H6",
+        "fsa": "C1A",
+        "ldu": "5H6",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A3M4",
+        "fsa": "C1A",
+        "ldu": "3M4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A2E9",
+        "fsa": "C1A",
+        "ldu": "2E9",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A1H9",
+        "fsa": "C1A",
+        "ldu": "1H9",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A4X3",
+        "fsa": "C1A",
+        "ldu": "4X3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A1M8",
+        "fsa": "C1A",
+        "ldu": "1M8",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351,
+          46.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A2A0",
+        "fsa": "C0A",
+        "ldu": "2A0",
+        "city": "St-peters Bay",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7133,
+          46.4167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1S0",
+        "fsa": "C0A",
+        "ldu": "1S0",
+        "city": "Morell",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7133,
+          46.4167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A2J0",
+        "fsa": "C0A",
+        "ldu": "2J0",
+        "city": "Murray River",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6203,
+          46.0118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1W0",
+        "fsa": "C0A",
+        "ldu": "1W0",
+        "city": "Murray River",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6203,
+          46.0118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1R0",
+        "fsa": "C0A",
+        "ldu": "1R0",
+        "city": "Montague",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6203,
+          46.0118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1B0",
+        "fsa": "C0A",
+        "ldu": "1B0",
+        "city": "Belle River",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6203,
+          46.0118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1V0",
+        "fsa": "C0A",
+        "ldu": "1V0",
+        "city": "Murray Harbour",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6203,
+          46.0118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1W0",
+        "fsa": "C0A",
+        "ldu": "1W0",
+        "city": "Murray River",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3296,
+          46.4349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A2R4",
+        "fsa": "C1A",
+        "ldu": "2R4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3296,
+          46.4349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1A8C3",
+        "fsa": "C1A",
+        "ldu": "8C3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3296,
+          46.4349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1T3",
+        "fsa": "C1E",
+        "ldu": "1T3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3296,
+          46.4349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1Z2",
+        "fsa": "C1E",
+        "ldu": "1Z2",
+        "city": "Winsloe",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3296,
+          46.4349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1X0",
+        "fsa": "C0A",
+        "ldu": "1X0",
+        "city": "North Rustico",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3296,
+          46.4349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1N0",
+        "fsa": "C0A",
+        "ldu": "1N0",
+        "city": "Hunter River",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3296,
+          46.4349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1Z3",
+        "fsa": "C1E",
+        "ldu": "1Z3",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3535,
+          46.3562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1N0",
+        "fsa": "C0A",
+        "ldu": "1N0",
+        "city": "Hunter River",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3535,
+          46.3562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1Z2",
+        "fsa": "C1E",
+        "ldu": "1Z2",
+        "city": "Winsloe",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3535,
+          46.3562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0B1M0",
+        "fsa": "C0B",
+        "ldu": "1M0",
+        "city": "Kensington",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3535,
+          46.3562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A2H0",
+        "fsa": "C0A",
+        "ldu": "2H0",
+        "city": "Hunter River",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3535,
+          46.3562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1Y0",
+        "fsa": "C0A",
+        "ldu": "1Y0",
+        "city": "North Wiltshire",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3535,
+          46.3562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C0A1E0",
+        "fsa": "C0A",
+        "ldu": "1E0",
+        "city": "Breadalbane",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3535,
+          46.3562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postalCode": "C1E1Z4",
+        "fsa": "C1E",
+        "ldu": "1Z4",
+        "city": "Charlottetown",
+        "provinceCode": "PE",
+        "countryCode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3535,
+          46.3562
+        ]
+      }
+    }
+  ]
+}
