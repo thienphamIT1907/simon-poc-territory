@@ -46,7 +46,7 @@ export function LduSelector({
       setIsLoading(true);
       try {
         const response = await fetch(
-          `/src/mock/ldu/${province.firstCharOfCode}-${province.alias}-ldu.geojson`
+          `/ldu/${province.firstCharOfCode}-${province.alias}-ldu.geojson`
         );
         if (response.ok) {
           const data = await response.json();
