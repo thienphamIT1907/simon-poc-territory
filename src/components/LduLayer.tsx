@@ -94,10 +94,13 @@ function LduLayerComponent({
   }, []);
 
   // Handle mouse entering marker/popover - keep popover open
-  const handleMouseEnter = useCallback((groupKey: string) => {
-    clearCloseTimeout();
-    setOpenPopoverKey(groupKey);
-  }, [clearCloseTimeout]);
+  const handleMouseEnter = useCallback(
+    (groupKey: string) => {
+      clearCloseTimeout();
+      setOpenPopoverKey(groupKey);
+    },
+    [clearCloseTimeout]
+  );
 
   // Handle mouse leaving marker/popover - close with delay to allow moving to popover
   const handleMouseLeave = useCallback(() => {
@@ -280,12 +283,17 @@ function LduLayerComponent({
         const isUsed = isGroupUsed(group);
 
         // Determine marker state: used > selected > default
-        const markerState = isUsed ? "used" : isSelected ? "selected" : "default";
+        const markerState = isUsed
+          ? "used"
+          : isSelected
+          ? "selected"
+          : "default";
 
         // Color classes based on state
         const pinCircleClasses = {
           used: "bg-gray-500 shadow-gray-500/50 ring-2 ring-gray-400 cursor-not-allowed",
-          selected: "bg-emerald-500 shadow-emerald-500/50 ring-2 ring-emerald-300",
+          selected:
+            "bg-emerald-500 shadow-emerald-500/50 ring-2 ring-emerald-300",
           default: "bg-blue-600 shadow-blue-600/50",
         }[markerState];
 
@@ -314,7 +322,7 @@ function LduLayerComponent({
             zIndex={isOpen ? 3000 : isSelected ? 2500 : isUsed ? 1500 : 2000}
             onClick={() => handleMarkerClick(group)}
           >
-            <div 
+            <div
               className="relative"
               onMouseEnter={() => handleMouseEnter(group.key)}
               onMouseLeave={handleMouseLeave}
@@ -325,9 +333,15 @@ function LduLayerComponent({
                   relative flex flex-col items-center
                   transition-all duration-200 ease-out
                   ${isUsed ? "cursor-not-allowed" : "cursor-pointer"}
-                  ${isOpen ? "scale-125" : isUsed ? "scale-100" : "scale-100 hover:scale-110"}
+                  ${
+                    isOpen
+                      ? "scale-125"
+                      : isUsed
+                      ? "scale-100"
+                      : "scale-100 hover:scale-110"
+                  }
                 `}
-                style={{ width: '48px', height: '60px' }}
+                style={{ width: "48px", height: "60px" }}
               >
                 {/* Pin Shape */}
                 <div className="relative">
@@ -340,12 +354,14 @@ function LduLayerComponent({
                     `}
                   >
                     <span className="text-white font-bold text-sm">
-                      {hasMultiple ? group.ldus.length : '1'}
+                      {hasMultiple
+                        ? `${group.ldus.length} LDUs`
+                        : firstLdu.postalCode.slice(-3)}
                     </span>
                   </div>
-                  
+
                   {/* Pin Point (Triangle) */}
-                  <div 
+                  <div
                     className={`
                       absolute left-1/2 -translate-x-1/2 top-10.5
                       w-0 h-0 
@@ -368,7 +384,11 @@ function LduLayerComponent({
                   >
                     {isUsed && <span className="mr-1">✗</span>}
                     {firstLdu.city}
-                    {isUsed && <span className="ml-1 text-[10px] opacity-80">(Used)</span>}
+                    {isUsed && (
+                      <span className="ml-1 text-[10px] opacity-80">
+                        (Used)
+                      </span>
+                    )}
                   </div>
                 )}
               </div>
@@ -390,20 +410,20 @@ function LduLayerComponent({
                     {group.ldus.map((ldu) => {
                       const lduSelected = selectedLdus.includes(ldu.postalCode);
                       const lduUsed = isLduUsed(ldu.postalCode);
-                      
+
                       // Determine LDU item styling
                       const itemBgClass = lduUsed
                         ? "bg-gray-100 cursor-not-allowed"
                         : lduSelected
                         ? "bg-emerald-100"
                         : "hover:bg-slate-100";
-                      
+
                       const itemTextClass = lduUsed
                         ? "text-gray-500"
                         : lduSelected
                         ? "text-emerald-600"
                         : "text-blue-600";
-                      
+
                       return (
                         <div
                           key={ldu.postalCode}
@@ -413,9 +433,17 @@ function LduLayerComponent({
                             {lduUsed && "✗ "}
                             {lduSelected && !lduUsed && "✓ "}
                             {ldu.postalCode}
-                            {lduUsed && <span className="ml-1 font-normal text-gray-400">(Used)</span>}
+                            {lduUsed && (
+                              <span className="ml-1 font-normal text-gray-400">
+                                (Used)
+                              </span>
+                            )}
                           </div>
-                          <div className={lduUsed ? "text-gray-400" : "text-slate-500"}>
+                          <div
+                            className={
+                              lduUsed ? "text-gray-400" : "text-slate-500"
+                            }
+                          >
                             {ldu.city}
                           </div>
                         </div>

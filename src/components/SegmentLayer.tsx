@@ -23,11 +23,13 @@ function getOperatorColor(operatorId: string, index: number): string {
 interface SegmentLayerProps {
   selectedFsaId: string | null;
   segments: Segment[];
+  onSegmentClick?: (segment: Segment) => void;
 }
 
 export const SegmentLayer = memo(function SegmentLayer({
   selectedFsaId,
   segments,
+  onSegmentClick,
 }: SegmentLayerProps) {
   const map = useMap();
   const itemsRef = useRef<(google.maps.Polygon | google.maps.Circle)[]>([]);
@@ -68,8 +70,21 @@ export const SegmentLayer = memo(function SegmentLayer({
           radius: segment.geometry.radius || 500,
         });
 
-        // Add listeners if needed (hover, click) - can add later
-        
+        // Add click listener
+        if (onSegmentClick) {
+          circle.addListener("click", () => {
+            onSegmentClick(segment);
+          });
+        }
+
+        // Add hover effect
+        circle.addListener("mouseover", () => {
+          circle.setOptions({ fillOpacity: 0.5, strokeWeight: 3 });
+        });
+        circle.addListener("mouseout", () => {
+          circle.setOptions({ fillOpacity: 0.3, strokeWeight: 2 });
+        });
+
         itemsRef.current.push(circle);
       } else if (
         segment.geometry.type === "Polygon" &&
@@ -79,7 +94,22 @@ export const SegmentLayer = memo(function SegmentLayer({
           ...commonOptions,
           paths: segment.geometry.coordinates,
         });
-        
+
+        // Add click listener
+        if (onSegmentClick) {
+          polygon.addListener("click", () => {
+            onSegmentClick(segment);
+          });
+        }
+
+        // Add hover effect
+        polygon.addListener("mouseover", () => {
+          polygon.setOptions({ fillOpacity: 0.5, strokeWeight: 3 });
+        });
+        polygon.addListener("mouseout", () => {
+          polygon.setOptions({ fillOpacity: 0.3, strokeWeight: 2 });
+        });
+
         itemsRef.current.push(polygon);
       }
     });
@@ -88,7 +118,7 @@ export const SegmentLayer = memo(function SegmentLayer({
       itemsRef.current.forEach((item) => item.setMap(null));
       itemsRef.current = [];
     };
-  }, [map, visibleSegments]);
+  }, [map, visibleSegments, onSegmentClick]);
 
   return null;
 });

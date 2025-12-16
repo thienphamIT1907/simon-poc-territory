@@ -15,6 +15,7 @@ import { useUsedSegmentData } from "../hooks/useUsedSegmentData";
 import { LoaderPinwheel } from "lucide-react";
 
 import { SegmentLayer } from "./SegmentLayer";
+import { SegmentDetailPanel } from "./SegmentDetailPanel";
 import type { Segment } from "../types/segment";
 
 interface FSAMapProps {
@@ -68,6 +69,8 @@ function FSAMapMemo({
   const [hoveredFsaId, setHoveredFsaId] = useState<string | null>(null);
   // Use external FSA selection if provided, otherwise use internal state
   const [internalSelectedFsaId, setInternalSelectedFsaId] = useState<string | null>(null);
+  // Selected segment for detail panel
+  const [selectedSegment, setSelectedSegment] = useState<Segment | null>(null);
   
   // Determine which FSA ID to use (external takes precedence)
   const selectedFsaId = externalSelectedFsaId ?? internalSelectedFsaId;
@@ -99,6 +102,15 @@ function FSAMapMemo({
       }
     });
   }, [selectedProvince?.code, externalOnSelectFsa]);
+
+  // Auto-hide segment detail panel when FSA is unselected
+  useEffect(() => {
+    if (!selectedFsaId) {
+      queueMicrotask(() => {
+        setSelectedSegment(null);
+      });
+    }
+  }, [selectedFsaId]);
 
   // Reset render completion when data changes
   useEffect(() => {
@@ -311,9 +323,10 @@ function FSAMapMemo({
           />
         )}
         <SegmentLayer
-        selectedFsaId={selectedFsaId}
-        segments={segments}
-      />
+          selectedFsaId={selectedFsaId}
+          segments={segments}
+          onSegmentClick={setSelectedSegment}
+        />
     </GoogleMap>
 
       {/* Selected FSA indicator - only show when using internal FSA selection (no external control) */}
@@ -354,6 +367,12 @@ function FSAMapMemo({
           </div>
         </div>
       )}
+
+      {/* Segment Detail Panel - shows on segment click */}
+      <SegmentDetailPanel
+        segment={selectedSegment}
+        onClose={() => setSelectedSegment(null)}
+      />
     </div>
   );
 }
