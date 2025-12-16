@@ -62,7 +62,8 @@ export const useLduData = ({
 
       try {
         // LDU files are named like: A-NL-ldu.geojson, B-NS-ldu.geojson, etc.
-        const lduPath = `/src/mock/ldu/${selectedProvince.firstCharOfCode}-${selectedProvince.alias}-ldu.geojson`;
+        // Files are served from public/ldu/ in production builds
+        const lduPath = `/ldu/${selectedProvince.firstCharOfCode}-${selectedProvince.alias}-ldu.geojson`;
 
         const response = await fetch(lduPath, {
           signal: abortController.signal,

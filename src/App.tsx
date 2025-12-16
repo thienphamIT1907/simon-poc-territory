@@ -18,7 +18,7 @@ function App() {
               path="/segments-management"
               element={<SegmentsManagementPage />}
             />
-            <Route path="/" element={<Navigate to="/segments-management" replace />} />
+            <Route path="/" element={<Navigate to="/map" replace />} />
           </Route>
         </Routes>
       </BrowserRouter>

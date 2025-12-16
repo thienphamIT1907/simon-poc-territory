@@ -1,9 +1,9 @@
 import { NavLink, Outlet } from "react-router-dom";
-import { Map, Layers } from "lucide-react";
+import { Map } from "lucide-react";
 import { twMerge } from "tailwind-merge";
 
 const navItems = [
-  { to: "/segments-management", label: "Segments", icon: Layers },
+  // { to: "/segments-management", label: "Segments", icon: Layers },
   { to: "/map", label: "Map", icon: Map },
 ];
 
